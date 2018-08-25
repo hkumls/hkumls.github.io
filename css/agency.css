@@ -131,7 +131,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg5.jpg");
+  background-image: url("../img/header/header3.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -174,7 +174,7 @@ header.masthead {
 
 section#about {
     background-color: #212529;
-    background-image: url("../img/about.jpg");
+    background-image: url("../img/header/header5.jpg");
     color: white;
     background-repeat: no-repeat;
     background-attachment: scroll;
