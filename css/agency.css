@@ -11,7 +11,7 @@ a {
     color: #fec503; }
 
 .text-primary {
-  color: #fed136 !important; }
+  color: black!important; }
 
 h1,
 h2,
@@ -49,7 +49,7 @@ section {
   padding: 20px 40px; }
 
 .btn-primary {
-  background-color: #fed136;
+  background-color: #fed1;
   border-color: #fed136; }
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
     background-color: #fec810 !important;
@@ -85,10 +85,10 @@ img::-moz-selection {
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: #fed136;
+    background-color: #fed1;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
-    color: #fed136;
+    color: white;
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #cd9f01; }
