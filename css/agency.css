@@ -224,6 +224,18 @@ section#team {
     background-size: cover;
 }
 
+section#advisors {
+    background-color: #212529;
+    background-image: url("../img/advisors.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 .service-heading {
   margin: 15px 0;
   text-transform: none; }
