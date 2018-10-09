@@ -224,10 +224,10 @@ section#team {
     background-size: cover;
 }
 
-section#advisors {
+section#advisor {
     background-color: #212529;
     background-image: url("../img/advisors.jpg");
-    color: white;
+    color: black;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
